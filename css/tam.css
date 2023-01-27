@@ -49,9 +49,6 @@ body {
 
 /* End globale rules */
 
-.main {
-  background-color: var(--section-color1);
-}
 
 .coun {
   margin: 0 auto;
